@@ -30,6 +30,12 @@ pip install requests
       }
       ```
 
+## Features
+- collect project's class coverage of sonarqube
+- detecting substandard coverage classes
+- alarm to slack channel (mention to code author)
+  
+
 ## Output snapshot
 * slack message
   
