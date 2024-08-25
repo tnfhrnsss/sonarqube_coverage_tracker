@@ -11,6 +11,13 @@ This project monitors code coverage measured in SonarQube to help maintain quali
 
 ## Usage
 
+* install modules
+
+```
+pip install slack_sdk
+pip install requests
+```
+
 * You can configure the sonarqube api url and Slack details in the env.json.
      ```
       {
